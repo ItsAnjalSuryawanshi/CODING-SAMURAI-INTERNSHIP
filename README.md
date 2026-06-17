@@ -1,5 +1,5 @@
 # CODING-SAMURAI-INTERNSHIP
-Project 1: Customer Churn Prediction
+#Project 1: Customer Churn Prediction
 Description
 
 Customer Churn Prediction aims to identify customers who are likely to discontinue a service or subscription. The project uses customer demographic and behavioral data to build classification models that predict churn.
@@ -33,7 +33,9 @@ Precision
 Recall
 F1-Score
 Confusion Matrix
-Project 2: Handwritten Digit Recognition Using MNIST
+
+
+#Project 2: Handwritten Digit Recognition Using MNIST
 Description
 
 This project uses the MNIST handwritten digit dataset to train a neural network capable of recognizing digits from 0 to 9.
@@ -74,7 +76,10 @@ Confusion Matrix
 Precision
 Recall
 F1-Score
-Project 3: Image Classification Using Transfer Learning
+
+
+
+#Project 3: Image Classification Using Transfer Learning
 Description
 
 This project applies Transfer Learning using a pre-trained Convolutional Neural Network to classify flower images into different categories.
